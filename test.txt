@@ -1,1 +1,2 @@
 Front-end branch first change
+Second line of entry
